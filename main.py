@@ -11,6 +11,10 @@
 # Note:
 # Adjust the script parameters, such as directories and functions parameters, as needed for your specific use case.
 
+# Dependencies: 
+# - Pandas: 2.0.3
+# - Matplotlib: 3.7.1
+# - Seaborn: 0.11.2
 
 #############################
 
