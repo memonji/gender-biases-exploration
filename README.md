@@ -25,4 +25,4 @@ In this repository, you will find:
   - heatmaps (stored in /matrices/heatmaps/ folder).
  
 ### Requirements
-The code has been implemented over a Python 3.11.3 and R 3.6.2 (2019-12-12) version and with a Conda (23.5.2) environment.
+The code has been implemented over a Python 3.11.3 and a R 3.6.2 (2019-12-12) version and with a Conda (23.5.2) environment.
