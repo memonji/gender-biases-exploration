@@ -1,5 +1,4 @@
 ## Human Language Technologies Project
-(https://github.com/memonji/Computational_Linguistics_2022-23/files/14138862/CL_Montecchiari_Project.pdf)
 
 **Title:** Investigating gender biases throught a distributional semantics lens
 
@@ -10,7 +9,7 @@
 **Date:** February 9, 2024
 
 ## Project Proposal 
-# Abstract
+###  Abstract
 
 ________
 
@@ -19,7 +18,10 @@ ________
 In this repository, you will find:
 
 - **Overall_neighbors_comparison:** The script used to extract relevant target words neighbors from pre-built semantic spaces.
-- **Subspaces_creation:** The script used to extract cosine similarity comparison matrices of selected words from pre-built spaces.
-- **Main:** User interactive script to compute different metrics over the built matrices (top similarity pairs, most similar words to target input ones, heatmaps)
-- **Matrices:** CSV files with built comparison matrices and representative heatmaps.
-
+- This script has been used to investigate specific words representation in the spaces between diverse languages.
+- **Subspaces_creation:** The script used to select specific words lists from the different spaces and extract cosine similarity comparison matrices within them.
+- The matrices files are stored as CSV files in the matrices folder.
+- **Main:** User interactive script to compute different metrics over the built matrices. Those are:
+  - top similarity pairs,
+  - most similar words to target ones,
+  - heatmaps (stored in /matrices/heatmaps/ folder).
