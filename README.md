@@ -23,3 +23,6 @@ In this repository, you will find:
   - top similarity pairs,
   - most similar words to target ones,
   - heatmaps (stored in /matrices/heatmaps/ folder).
+ 
+### Requirements
+The code has been implemented over a Python 3.11.3 version and with a Conda (23.1.0) environment.
