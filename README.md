@@ -29,4 +29,5 @@ The code has been implemented over a Python 3.11.3 and a R 3.6.2 (2019-12-12) ve
 
 
 The R package for computations as well as the pre-built semantic spaces on which the project is developed have been retrieved from: 
-    - Günther, F., Dudschig, C., & Kaup, B. (2015). LSAfun – An R package for     computations based on Latent Semantic Analysis. Behavior Research Methods, 47, 930-944 (https://sites.google.com/site/fritzgntr/software-resources/r_packages)
+
+Günther, F., Dudschig, C., & Kaup, B. (2015). LSAfun – An R package for     computations based on Latent Semantic Analysis. Behavior Research Methods, 47, 930-944 (https://sites.google.com/site/fritzgntr/software-resources/r_packages)
