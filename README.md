@@ -1,4 +1,4 @@
-## An exploration over gender biases through a distributional semantics lens
+## An exploration of gender biases through a distributional semantics lens
 
 **Author:** Emma Angela Montecchiari
 
