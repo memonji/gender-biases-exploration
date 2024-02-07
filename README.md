@@ -9,7 +9,7 @@
 ## Project Proposal 
 ###  Abstract
 
-________
+This study addresses the need to mitigate biases in language models, focusing on the often-overlooked experiences of non-binary individuals. While existing research has primarily tackled biases related to binary gender stereotypes, this study explores the broader spectrum of gender identities. Through an exploratory analysis of embedded contextual representations within distributional language models, the aim is to observe and identify biases in a multi-language set of semantic spaces.
 
 ## Contents
 
