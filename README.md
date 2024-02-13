@@ -1,4 +1,5 @@
 ## An exploration of gender biases through a distributional semantics lens
+[Montecchiari_Project_Report.pdf](https://github.com/memonji/gender-biases-exploration/files/14270670/Montecchiari_Project_Report.pdf)
 
 **Author:** Emma Angela Montecchiari
 
