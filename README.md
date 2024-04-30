@@ -1,5 +1,6 @@
 ## An exploration of gender biases through a distributional semantics lens
 [Montecchiari_Project_Report.pdf](https://github.com/memonji/gender-biases-exploration/files/14270670/Montecchiari_Project_Report.pdf)
+
 [Project Presentation.pdf](https://github.com/memonji/gender-biases-exploration/files/15165398/An.exploration.of.gender.biases.through.a.distributional.semantics.lens.pdf)
 
 **Author:** Emma Angela Montecchiari
@@ -32,4 +33,5 @@ The code has been implemented over a Python 3.11.3 and a R 3.6.2 (2019-12-12) ve
 ### Paper Review
 Second part of the exam:
 [Paper_review.pdf](https://github.com/memonji/gender-biases-exploration/files/15165403/Montecchiari_Paper_review.pdf)
+
 [PaperReview_Presentation.pdf](https://github.com/memonji/gender-biases-exploration/files/15165404/Montecchiari_PaperReview_Presentation.pdf)
